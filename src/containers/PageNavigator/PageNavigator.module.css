@@ -1,0 +1,13 @@
+.pageNavigatorHeader {
+  width: 100vw;
+  height: 10vh;
+  background: gray;
+  margin: 0;
+}
+
+.pageNavigatorBody {
+  width: 100vw;
+  height: 90vh;
+  background: lightskyblue;
+  margin: 0;
+}
